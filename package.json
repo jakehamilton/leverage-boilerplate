@@ -4,6 +4,7 @@
   "description": "A boilerplate for your next project",
   "main": "index.js",
   "scripts": {
+    "start": "node $npm_package_main",
     "test": "echo Add tests here!"
   },
   "repository": {
